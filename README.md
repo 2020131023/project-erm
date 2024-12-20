@@ -2,8 +2,10 @@
 
 해당 데이터에는
 
-data/train/soccer, basketball, tennis, not_a_ball
+data/train/soccer, basketball, tennis, not_a_ball\
+
 data/val/soccer, basketball, tennis, not_a_ball
+
 test_images/
 
 가 쓰였습니다.
