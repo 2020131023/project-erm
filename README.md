@@ -8,4 +8,6 @@ data/val/soccer, basketball, tennis, not_a_ball
 
 test_images/
 
-가 쓰였습니다.
+가 쓰였습니다
+
+CNN 과정에서 경사하강법의 기초인 gradient_descent_2d 를 이용해서 데이터를 학습시킨 뒤 테스트 했습니다
